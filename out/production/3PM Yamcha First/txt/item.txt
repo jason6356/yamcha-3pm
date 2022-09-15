@@ -1,0 +1,16 @@
+IT01#Naan with Tandoori Chicken#5.00#FOOD#1
+IT02#Mamak Rojak#6.00#FOOD#0
+IT03#Chapati Chapati#7.00#FOOD#0
+IT05#Roti Telur#6.50#FOOD#0
+IT06#Nasi Lemak#5.50#FOOD#0
+IT07#Thosai Like Chapati#6.80#FOOD#0
+IT08#Roti Canai#1.00#FOOD#0
+IT09#Maggi Goreng#8.90#FOOD#0
+IT04#Nasi Kandar#7.00#FOOD#0
+IT10#Teh Tarik#1.50#BEVERAGE#0
+IT11#Teh C Ping#1.80#BEVERAGE#0
+IT12#Neslo#2.00#BEVERAGE#0
+IT13#Milo Ais#3.00#BEVERAGE#0
+IT14#Milo Dinosaur#3.50#BEVERAGE#0
+IT15#Milo Godzilla#4.00#BEVERAGE#0
+IT16#Milo King Kong#5.00#BEVERAGE#0
