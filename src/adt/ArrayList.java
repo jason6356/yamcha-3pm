@@ -158,7 +158,7 @@ public class ArrayList<T> implements ListI<T>{
 
     @Override
     public Iterator iterator() {
-        return null;
+        return new ArrayListIterator();
     }
 
     @Override
